@@ -1,0 +1,17 @@
+[project]
+name = "lecture9"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "holidays>=0.66",
+    "jupyter>=1.1.1",
+    "pandas>=2.2.3",
+    "plotly>=6.0.0",
+    "prophet>=1.1.6",
+    "pyod>=2.0.3",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.14.4",
+    "suod>=0.1.3",
+]
